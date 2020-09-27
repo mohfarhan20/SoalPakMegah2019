@@ -16,7 +16,7 @@ public class Soal2 {
 
         float c = userInput.nextFloat();
         int jumlah = (int) (a+b+c);
-        System.out.println("jumlah = "+ jumlah);
+        System.out.println("jumlah = "+ Jumlah);
 
         int rata2 = (int) (a+b+c)/3;
         System.out.println("rata2 = "+ rata2);
